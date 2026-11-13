@@ -1,0 +1,13 @@
+{
+  "name": "Fruit Vendor Digital Bookkeeping System",
+  "short_name": "Bunga Books",
+  "description": "Talaan ng benta, bili, puhunan at imbentaryo ng prutas.",
+  "lang": "fil",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8f5",
+  "theme_color": "#18864b",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
